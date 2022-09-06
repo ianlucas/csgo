@@ -1,6 +1,6 @@
 {
   "name": "@ianlucas/csgo",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Counter-Strike: Global Offensive static data for manipulation.",
   "source": "src/csgo.ts",
   "main": "dist/csgo.common.js",
